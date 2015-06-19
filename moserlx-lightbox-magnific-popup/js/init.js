@@ -22,7 +22,7 @@
 				},
 				zoom: {
 					enabled: true,
-					duration: 300 // don't foget to change the duration also in CSS
+					duration: 400 // don't foget to change the duration also in CSS
 				}
 			});
 		});
